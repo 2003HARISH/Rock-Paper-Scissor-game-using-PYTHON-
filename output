@@ -1,0 +1,26 @@
+OUTPUT 1
+computer,s turn choose rock(r),paper(p),scissor(s)
+Your turn choose rock(r),paper(p),scissso(s) s
+your choise was s     
+compute's choise was p
+  You Win!!
+ 
+OUTPUT 2 
+computer,s turn choose rock(r),paper(p),scissor(s)
+Your turn choose rock(r),paper(p),scissso(s) s
+your choise was s      
+compute's choise was p 
+  You Win!!
+  
+OUTPUT 3  
+computer,s turn choose rock(r),paper(p),scissor(s)
+Your turn choose rock(r),paper(p),scissso(s) p
+your choise was p      
+compute's choise was s 
+  You Lose!!
+  
+OUTPUT 4  
+Your turn choose rock(r),paper(p),scissso(s) r
+your choise was r     
+compute's choise was r
+  Its a Tie!!  
